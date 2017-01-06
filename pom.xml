@@ -15,7 +15,12 @@
   <description>Messing around with cuda</description>
 
   <dependencies>
-  
+    <dependency>
+        <groupId>com.github.wendykierp</groupId>
+        <artifactId>JTransforms</artifactId>
+        <version>3.1</version>
+        <classifier>with-dependencies</classifier>
+    </dependency>
 	  <dependency>
 	      <groupId>org.stowers.jcuda</groupId>
 	      <artifactId>jcublas</artifactId>
