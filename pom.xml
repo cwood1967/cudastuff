@@ -113,6 +113,11 @@
             <artifactId>ij1-patcher</artifactId>
             <!--<scope>runtime</scope>-->
         </dependency>
+        <dependency>
+            <groupId>org.stowers.microscopy</groupId>
+            <artifactId>cjwutils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
   </dependencies> 	
 
     <repositories>
